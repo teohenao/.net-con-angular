@@ -1,0 +1,6 @@
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.exe.config
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.exe
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\bin\Debug\LabSintaxis2.pdb
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.exe
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.pdb
+C:\Users\Mateo Henao R\source\repos\LabSintaxis2\LabSintaxis2\obj\Debug\LabSintaxis2.csprojAssemblyReference.cache

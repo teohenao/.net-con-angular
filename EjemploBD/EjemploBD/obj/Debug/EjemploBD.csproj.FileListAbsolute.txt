@@ -1,0 +1,6 @@
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\bin\Debug\EjemploBD.exe.config
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\bin\Debug\EjemploBD.exe
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\bin\Debug\EjemploBD.pdb
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\obj\Debug\EjemploBD.csprojAssemblyReference.cache
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\obj\Debug\EjemploBD.exe
+C:\Users\Mateo Henao R\source\repos\EjemploBD\EjemploBD\obj\Debug\EjemploBD.pdb

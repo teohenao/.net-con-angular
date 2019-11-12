@@ -1,0 +1,7 @@
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\bin\Debug\DemoAdo.exe.config
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\bin\Debug\DemoAdo.exe
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\bin\Debug\DemoAdo.pdb
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\obj\Debug\DemoAdo.csprojAssemblyReference.cache
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\obj\Debug\DemoAdo.csproj.CoreCompileInputs.cache
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\obj\Debug\DemoAdo.exe
+C:\Users\ahurtado\source\repos\DemoAdo\DemoAdo\obj\Debug\DemoAdo.pdb

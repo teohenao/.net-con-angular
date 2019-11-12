@@ -1,0 +1,11 @@
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\obj\Debug\netcoreapp3.0\LeerXML.csprojAssemblyReference.cache
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\obj\Debug\netcoreapp3.0\LeerXML.AssemblyInfoInputs.cache
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\obj\Debug\netcoreapp3.0\LeerXML.AssemblyInfo.cs
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.exe
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.deps.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.runtimeconfig.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.runtimeconfig.dev.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.dll
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\bin\Debug\netcoreapp3.0\LeerXML.pdb
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\obj\Debug\netcoreapp3.0\LeerXML.dll
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\LeerXML\obj\Debug\netcoreapp3.0\LeerXML.pdb

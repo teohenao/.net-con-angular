@@ -1,0 +1,11 @@
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\BusinessAdo.dll
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\BusinessAdo.pdb
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\DataADO.dll
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\Entidades.dll
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\DataADO.pdb
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\bin\Debug\Entidades.pdb
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\obj\Debug\BusinessAdo.csprojAssemblyReference.cache
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\obj\Debug\BusinessAdo.csproj.CoreCompileInputs.cache
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\obj\Debug\BusinessAdo.csproj.CopyComplete
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\obj\Debug\BusinessAdo.dll
+C:\Users\ahurtado\source\repos\DemoAdo\BusinessAdo\obj\Debug\BusinessAdo.pdb

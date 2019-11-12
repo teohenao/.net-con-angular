@@ -1,0 +1,11 @@
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.exe
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.deps.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.runtimeconfig.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.runtimeconfig.dev.json
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.dll
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\bin\Debug\netcoreapp3.0\Lab5Strings.pdb
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\obj\Debug\netcoreapp3.0\Lab5Strings.csprojAssemblyReference.cache
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\obj\Debug\netcoreapp3.0\Lab5Strings.AssemblyInfoInputs.cache
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\obj\Debug\netcoreapp3.0\Lab5Strings.AssemblyInfo.cs
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\obj\Debug\netcoreapp3.0\Lab5Strings.dll
+C:\Users\Mateo Henao R\source\repos\Lab5Strings\Lab5Strings\obj\Debug\netcoreapp3.0\Lab5Strings.pdb

@@ -1,0 +1,9 @@
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\ahurtado\source\repos\DemoAdo\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
